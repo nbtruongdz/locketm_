@@ -1,7 +1,7 @@
 // ============================================================
 // Locket Remote Config Rewrite & Custom Captions
 // Endpoint: firebaseremoteconfig.googleapis.com
-// Tác giả: Mít
+// Tác giả: Nguyen Bui Truong
 // ============================================================
 
 var ua = $request.headers["User-Agent"] || $request.headers["user-agent"] || "";
@@ -47,15 +47,15 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD BY MÍT",
+            tag: "LOCKET GOLD BY NBT",
             tag_gradient: true,
             tag_style: "gold_gradient",
             title: "Có Locket Gold rồi đó 😎",
             feature_set: [
                 {
-                    title: "Nhớ follow kênh tiktok @emmitcute6 ✨",
+                    title: "Nhớ follow kênh tiktok  truongcon_jqk 😎",
                     body: "Một follow của bạn, một niềm vui của mình ❤️‍🩹",
-                    imageURL: "https://cdn.upanhlaylink.com/i/BHxWil8h.png"
+                    imageURL: "https://cdn.upanhlaylink.com/i/yVVZlhu1.png"
                 }
             ],
             primary_button_title: "Up ảnh thôi nàooo !",

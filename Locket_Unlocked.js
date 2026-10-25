@@ -374,7 +374,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "👨🏻‍💻 locketgold by Mít",
+                section: "👨🏻‍💻 locketgold by Nguyen Bui Truong",
                 items: [
                     { overlay_id: "caption:ngonnn", source: "remote", caption: { background: { colors: ["#FFD1DC", "#FFB7B2", "#FFDAC1"] }, max_lines: 1, text: "ngonnn vll ", text_color: "#D72638", type: "static_content" } },
                     { overlay_id: "caption:deppvaii", source: "remote", caption: { background: { colors: ["#E2F0CB", "#B5EAD7", "#C7CEEA"] }, max_lines: 1, text: "deppp vaii ", text_color: "#3A506B", type: "static_content" } },
